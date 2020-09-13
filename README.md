@@ -12,4 +12,4 @@ python manage.py makemigrations core
 python manage.py migrate
 python manage.py runserver
 ```
-Follow me on IG for more: @coderasha
+## Follow me on IG for more: @coderasha
